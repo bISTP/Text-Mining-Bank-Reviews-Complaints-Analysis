@@ -19,6 +19,6 @@ Analyzing Bank Reviews using Supervised and Unsupervised Learning with the help 
 ## DATASET:
   The data is a detailed dump of customer reviews/complaints (~500) of different services at different banks:
   * **date -** Day the review was posted
-  * stars -** 1–5 rating for the business
-  * text -** Review text
-  * bank name -** Name of the respective bank
+  * **stars -** 1–5 rating for the business
+  * **text -** Review text
+  * **bank name -** Name of the respective bank
