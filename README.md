@@ -1,5 +1,5 @@
-# Text-Mining---Bank-Reviews-Complaints-Analysis
-Analyzing Bank Reviews using Supervised and Unsupervised Learning with the help of Natural Language Processing
+# Text-Mining: Bank Reviews Complaints Analysis
+Analyzing Bank Reviews using Supervised and Unsupervised Learning with the help of Natural Language Processing.
 
 ## BUSINESS PROBLEM:
   Central banks collecting information about customer satisfaction with the services provided by different bank. Also collects the information about the complaints.
